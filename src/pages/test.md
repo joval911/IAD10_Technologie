@@ -1,5 +1,5 @@
 ---
-title: mt title
+title: my Test Site
 ---
 
 # Test
