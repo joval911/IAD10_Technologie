@@ -1,6 +1,6 @@
 ---
 title: my Test Site
-image: "/uploads/pexels-pixabay-35016.jpg"
+image: "/uploads/pexels-pixabay-35016-1.jpg"
 
 ---
 # Test
